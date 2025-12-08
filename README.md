@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinhoyon" alt="jinhoyon" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [jinhoyon.com](jinhoyon.com)
-
 - 📫 How to reach me **jyon@ucdavis.edu**
 
 - ⚡ Fun fact **I recently got into playing pickleball!**
