@@ -12,7 +12,7 @@
 
 <p align="center">
   📍 Seoul, South Korea &nbsp;·&nbsp;
-  📍 San Jose, California &nbsp;·&nbsp; 
+  📍 San Jose, California &nbsp;
 </p>
 
 ---
