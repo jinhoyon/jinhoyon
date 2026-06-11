@@ -63,7 +63,7 @@ End-to-end fitness management app with workout logging, progress tracking, and u
 ## Tech Stack
 
 **Backend**
-`Java` `Spring Boot` `Spring Security` `Spring Batch` `JPA / Hibernate` `MyBatis` `PostgreSQL` `MySQL` `REST API`
+`Java` `Spring Boot` `Spring Security` `Spring Batch` `JPA / Hibernate` `MyBatis` `MySQL` `REST API`
 
 **Frontend**
 `React` `TypeScript` `Next.js` `JavaScript` `Tailwind CSS` `Reactstrap`
