@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jinhoyon/">LinkedIn</a> ·
   <a href="#">Portfolio</a> ·
-  <a href="#">Resume</a>
+  <a href="https://github.com/user-attachments/files/28818373/JHY_RESUME.pdf">Resume</a>
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 </p>
 
 ---
+
 
 ## About
 
