@@ -60,12 +60,13 @@ Built at the IBM BoB Hackathon. Paste a GitHub URL and get auto-generated archit
 
 ---
 
-### [Fitsbug](https://github.com/jinhoyon/fitsbug)
+### [Fitsbug](https://github.com/jinhoyon/Final-Fitsbug)
 > Full-stack fitness tracking application
 
 Spring Boot · JPA · MyBatis · React · MySQL
 
-End-to-end fitness management app with workout logging, progress tracking, and user authentication. Built to practice production-grade Spring Boot patterns and REST API design.
+Built a Java MVC web application to understand layered architecture, CRUD operations, and database integration with MyBatis.
+
 ---
 
 ## Tech Stack
