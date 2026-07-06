@@ -38,7 +38,7 @@ I care about clean architecture, domain-driven design, and shipping things that 
 
 Spring Boot · React · TypeScript · PostgreSQL · Gemini API · OpenDART API · RAG
 
-Built an AI-powered research platform for Korean capital markets that enables investors to analyze DART disclosures, ask questions about companies, and generate structured financial insights. Combines retrieval-augmented generation (RAG), financial data pipelines, and domain-specific prompting to reduce time spent reviewing corporate filings.
+Building an AI-powered research platform for Korean capital markets that enables investors to analyze DART disclosures, ask questions about companies, and generate structured financial insights. Combines retrieval-augmented generation (RAG), financial data pipelines, and domain-specific prompting to reduce time spent reviewing corporate filings.
 
 ---
 
