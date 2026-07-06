@@ -33,7 +33,16 @@ I care about clean architecture, domain-driven design, and shipping things that 
 
 ## Featured Projects
 
-### [Darfin](https://github.com/jinhoyon/darfin)
+### [Deltas AI](https://deltasai.vercel.app/)
+> AI workspace for Korean financial professionals that analyzes disclosures, earnings, and corporate filings with domain-specific workflows
+
+Spring Boot · React · TypeScript · PostgreSQL · Gemini API · OpenDART API · RAG
+
+Built an AI-powered research platform for Korean capital markets that enables investors to analyze DART disclosures, ask questions about companies, and generate structured financial insights. Combines retrieval-augmented generation (RAG), financial data pipelines, and domain-specific prompting to reduce time spent reviewing corporate filings.
+
+---
+
+### [Darfin](https://darfin-front.onrender.com/)
 > Automated anomaly detection and AI-powered summarization for DART financial disclosures (Korean equities)
 
 Spring Boot · Spring Batch · PostgreSQL · React · Gemini API · OpenDART API
@@ -47,7 +56,7 @@ Ingests Korean regulatory filings (주요사항보고서, 지분공시, 분기�
 
 Next.js · TypeScript · Tailwind CSS · Gemini API · Mermaid.js
 
-Built at the IBM BoB Hackathon. Paste a GitHub URL and get auto-generated architecture docs, interactive class/sequence diagrams, and quizzes — designed to cut onboarding time for new contributors on unfamiliar codebases.
+Built at the IBM BoB Hackathon. Paste a GitHub URL and get auto-generated architecture docs, interactive class/sequence diagrams, and quizzes—designed to cut onboarding time for new contributors on unfamiliar codebases.
 
 ---
 
@@ -57,7 +66,6 @@ Built at the IBM BoB Hackathon. Paste a GitHub URL and get auto-generated archit
 Spring Boot · JPA · MyBatis · React · MySQL
 
 End-to-end fitness management app with workout logging, progress tracking, and user authentication. Built to practice production-grade Spring Boot patterns and REST API design.
-
 ---
 
 ## Tech Stack
