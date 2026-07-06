@@ -1,4 +1,4 @@
-<h1 align="center">Roy (Jin Ho) Yon</h1>
+<h1 align="center">Jin Ho (Roy) Yon</h1>
 
 <p align="center">
   Full-stack engineer building fintech infrastructure for Korean capital markets
