@@ -51,7 +51,7 @@ Ingests Korean regulatory filings (주요사항보고서, 지분공시, 분기�
 
 ---
 
-### [Seenior](https://github.com/jinhoyon/seenior)
+### [Seenior](https://seenior.vercel.app/)
 > AI-powered onboarding toolkit that turns any GitHub repo into documentation, UML diagrams, and comprehension quizzes
 
 Next.js · TypeScript · Tailwind CSS · Gemini API · Mermaid.js
